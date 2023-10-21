@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typescript": "5.2.2",
+    "typescript-plugin-css-modules": "5.0.2"
+  },
+  "description": "TypeScript playground exported Sandbox",
+  "name": "typeScript-playground-export",
+  "version": "0.0.0"
+}
